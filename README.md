@@ -231,8 +231,8 @@ These additions would provide a more complete view of ROI and business health.
 
 ### References
 
-- Microsoft Excel — Pivot Tables, SUMIFS, Mapbox integration, and exponential smoothing forecasting functions.
-- Fisher’s Group Internal Sales Dataset and Dashboard (2024–2025).
+- Tableau Public Link — (https://public.tableau.com/views/DataStoriesandForecastingTask48/AnalyticalReportforDrowdyGroupofCompaniesFortheYear1948?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Kaggle.com.
 
 ### Appendix A: Revenue Metrics
 
@@ -280,6 +280,4 @@ These additions would provide a more complete view of ROI and business health.
 | Filters/Slicers | Interactive Controls | Enables granular analysis by Region and Salesperson. |
 """
 
-path = Path("/mnt/data/Fishers_Group_Sales_Analytics_README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created Markdown README with literal ## and ### headers: {path}")
+
